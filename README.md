@@ -1,10 +1,6 @@
 ## Introduction
 
-Bloatware — the unnecessary pre-installed software on your computer that can slow down performance and take up valuable storage space.
-
-I’ll show you how to identify and uninstall these unwanted programs, and walk you through creating a dynamic script to automate this process across multiple computers.
-
-By removing bloatware, you can free up RAM, reclaim storage space, and improve the overall speed and longevity of your PC.
+Creating a dynamic script to remove bloatware across multiple computers for small to large business to free up RAM, reclaim storage space, and improve the overall speed and longevity of your PC.
 
 
 ## [Bloatware](https://www.techtarget.com/searchsecurity/answer/How-can-we-detect-and-uninstall-bloatware)
