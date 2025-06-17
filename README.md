@@ -1,6 +1,6 @@
-## Summary
+## Introduction
 
-In this session, we’ll discuss bloatware — the unnecessary pre-installed software on your computer that can slow down performance and take up valuable storage space.
+Bloatware — the unnecessary pre-installed software on your computer that can slow down performance and take up valuable storage space.
 
 I’ll show you how to identify and uninstall these unwanted programs, and walk you through creating a dynamic script to automate this process across multiple computers.
 
@@ -19,10 +19,13 @@ In shorter detail - The package is installed on windows and will be installed fo
 
 
 #### Provision Packages by Organized Grid View (ogv)
+![alt text](https://github.com/JeanPCQ/Remove_Bloatware/blob/main/Pic/Get-AppxProvisioned_ogv.png)
 
 #### Provision Package Search
+![alt text](https://github.com/JeanPCQ/Remove_Bloatware/blob/main/Pic/Get-AppxProvisioned_search.png)
 
 #### Removing Provision Package
+![alt text](https://github.com/JeanPCQ/Remove_Bloatware/blob/main/Pic/Get-AppxProvisioned_Removed.png)
 
 
 
